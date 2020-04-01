@@ -1,4 +1,4 @@
-package com.beastiehut.lists;
+package com.anma.lists;
 
 import java.util.ArrayList;
 import java.util.Arrays;

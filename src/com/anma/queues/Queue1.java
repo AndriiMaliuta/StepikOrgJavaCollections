@@ -1,4 +1,4 @@
-package com.beastiehut.queues;
+package com.anma.queues;
 
 import java.util.ArrayList;
 import java.util.Collections;

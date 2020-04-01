@@ -1,4 +1,4 @@
-package com.beastiehut.sets;
+package com.anma.sets;
 
 import java.util.Scanner;
 import java.util.Set;

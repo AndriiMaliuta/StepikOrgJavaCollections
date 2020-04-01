@@ -1,4 +1,4 @@
-package com.beastiehut.lists;
+package com.anma.lists;
 /*
 Given a sequence of strings separated by spaces.
 Read the sequence from the standard input and store all strings to the list.
